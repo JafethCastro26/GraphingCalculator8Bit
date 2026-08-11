@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
+	<Project ProjectId="429135ee-d794-4d71-b103-4bfec5546adc" LogicalCircuitId="358e08f3-5885-485b-8df4-790edfc84f09" />
+	<LogicalCircuit LogicalCircuitId="358e08f3-5885-485b-8df4-790edfc84f09" Notation="Main" />
+	<CircuitButton CircuitButtonId="bc993d82-a597-4550-871f-645ed33965c6" IsToggle="True" />
+	<CircuitSymbol CircuitSymbolId="2aa9274d-ae19-41cf-89ad-6369660207d8" CircuitId="bc993d82-a597-4550-871f-645ed33965c6" LogicalCircuitId="358e08f3-5885-485b-8df4-790edfc84f09" X="22" Y="12" />
+</CircuitProject>
